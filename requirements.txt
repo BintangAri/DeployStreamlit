@@ -1,5 +1,5 @@
 flask
-paho.mqtt.client
+paho-mqtt
 pymongo
 requests
 pymongo.server_api
