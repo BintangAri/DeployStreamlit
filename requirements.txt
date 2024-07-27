@@ -2,9 +2,6 @@ flask==3.0.3
 paho-mqtt==2.1.0
 pymongo==4.8.0
 requests==2.32.3
-pymongo.server_api==4.8.0
-pymongo.mongo_client==4.8.0
-plotly.graph_objects==5.23.0
 json==2.0.9
 time==3.12.4
 plotly==5.23.0
