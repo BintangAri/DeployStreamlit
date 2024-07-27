@@ -1,0 +1,10 @@
+flask
+paho.mqtt.client
+pymongo
+requests
+pymongo.server_api
+pymongo.mongo_client
+plotly.graph_objects
+json
+time
+plotly
